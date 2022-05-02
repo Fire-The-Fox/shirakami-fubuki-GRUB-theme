@@ -7,4 +7,4 @@ Clone the repository, copy `Shirakami-Fubuki` folder into `/boot/grub/themes/` a
 
 # Sample screenshot
 
-![Screenshot](screen.png)
+![Screenshot](unknown.png)
